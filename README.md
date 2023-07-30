@@ -11,8 +11,6 @@ Project Features:
 Though the code may be simple and have room for improvement as it's one of my first Java projects, it reflects my early efforts to learn and grow as a Java developer.
 Feel free to explore the code and try out the game yourself!
 
-<img width="599" alt="" src="https://github.com/zs07/battleship/assets/92306226/21114ff9-84a2-4883-8509-6948f353d89b">
-<img width="410" alt="" src="https://github.com/zs07/battleship/assets/92306226/5e1afd61-d7b9-4250-82ad-7c891ffd11bc">
-
+<img width="599" alt="" src="https://github.com/zs07/battleship/assets/92306226/21114ff9-84a2-4883-8509-6948f353d89b"> <img width="410" alt="" src="https://github.com/zs07/battleship/assets/92306226/5e1afd61-d7b9-4250-82ad-7c891ffd11bc">
 
 <img width="392" alt="" src="https://github.com/zs07/battleship/assets/92306226/50e31fb6-8308-4ec0-aad2-acd5c44fd509">
